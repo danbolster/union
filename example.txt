@@ -1,0 +1,23 @@
+BEGINNING:
+' 
+NUMBERING:
+2
+SECOND NUM:
+6
+COLUMN NAME(S):
+table_schema,table_name,column_name
+TABLE NAME:
+information_schema.columns
+WHERE:
+table_schema
+ENTRIES:
+mysql,information_schema,performance_schema
+WHERE:
+column_name
+ENTRIES:
+first_name
+last_name
+WHERE:
+type
+ENTRIES:
+fix
